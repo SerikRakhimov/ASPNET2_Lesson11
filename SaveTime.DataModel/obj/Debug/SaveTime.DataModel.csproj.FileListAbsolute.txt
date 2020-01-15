@@ -1,0 +1,10 @@
+C:\Users\РахимовС\source\repos\SaveTime\SaveTime.DataModel\bin\Debug\SaveTime.DataModel.dll
+C:\Users\РахимовС\source\repos\SaveTime\SaveTime.DataModel\bin\Debug\SaveTime.DataModel.pdb
+C:\Users\РахимовС\source\repos\SaveTime\SaveTime.DataModel\obj\Debug\SaveTime.DataModel.dll
+C:\Users\РахимовС\source\repos\SaveTime\SaveTime.DataModel\obj\Debug\SaveTime.DataModel.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\SaveTime\SaveTime.DataModel\bin\Debug\SaveTime.DataModel.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\SaveTime\SaveTime.DataModel\bin\Debug\SaveTime.DataModel.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\SaveTime\SaveTime.DataModel\obj\Debug\SaveTime.DataModel.csprojResolveAssemblyReference.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\SaveTime\SaveTime.DataModel\obj\Debug\SaveTime.DataModel.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\SaveTime\SaveTime.DataModel\obj\Debug\SaveTime.DataModel.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\SaveTime\SaveTime.DataModel\obj\Debug\SaveTime.DataModel.pdb

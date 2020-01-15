@@ -1,0 +1,38 @@
+C:\Users\РахимовС\source\repos\SaveTime\SaveTime.DaraAccess\bin\Debug\SaveTime.DaraAccess.dll.config
+C:\Users\РахимовС\source\repos\SaveTime\SaveTime.DaraAccess\bin\Debug\SaveTime.DaraAccess.dll
+C:\Users\РахимовС\source\repos\SaveTime\SaveTime.DaraAccess\bin\Debug\SaveTime.DaraAccess.pdb
+C:\Users\РахимовС\source\repos\SaveTime\SaveTime.DaraAccess\bin\Debug\SaveTime.DataModel.dll
+C:\Users\РахимовС\source\repos\SaveTime\SaveTime.DaraAccess\bin\Debug\SaveTime.DataModel.pdb
+C:\Users\РахимовС\source\repos\SaveTime\SaveTime.DaraAccess\obj\Debug\SaveTime.DaraAccess.csprojAssemblyReference.cache
+C:\Users\РахимовС\source\repos\SaveTime\SaveTime.DaraAccess\obj\Debug\SaveTime.DaraAccess.csproj.CopyComplete
+C:\Users\РахимовС\source\repos\SaveTime\SaveTime.DaraAccess\obj\Debug\SaveTime.DaraAccess.dll
+C:\Users\РахимовС\source\repos\SaveTime\SaveTime.DaraAccess\obj\Debug\SaveTime.DaraAccess.pdb
+C:\Users\РахимовС\source\repos\SaveTime\SaveTime.DaraAccess\bin\Debug\EntityFramework.dll
+C:\Users\РахимовС\source\repos\SaveTime\SaveTime.DaraAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\РахимовС\source\repos\SaveTime\SaveTime.DaraAccess\bin\Debug\EntityFramework.xml
+C:\Users\РахимовС\source\repos\SaveTime\SaveTime.DaraAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\РахимовС\source\repos\SaveTime\SaveTime.DaraAccess\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\РахимовС\source\repos\SaveTime\SaveTime.DaraAccess\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\РахимовС\source\repos\SaveTime\SaveTime.DaraAccess\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\РахимовС\source\repos\SaveTime\SaveTime.DaraAccess\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\РахимовС\source\repos\SaveTime\SaveTime.DaraAccess\obj\Debug\SaveTime.DaraAccess.Migrations.Migration01.resources
+C:\Users\РахимовС\source\repos\SaveTime\SaveTime.DaraAccess\obj\Debug\SaveTime.DaraAccess.csproj.GenerateResource.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\SaveTime\SaveTime.DaraAccess\bin\Debug\SaveTime.DaraAccess.dll.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\SaveTime\SaveTime.DaraAccess\bin\Debug\SaveTime.DaraAccess.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\SaveTime\SaveTime.DaraAccess\bin\Debug\SaveTime.DaraAccess.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\SaveTime\SaveTime.DaraAccess\bin\Debug\EntityFramework.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\SaveTime\SaveTime.DaraAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\SaveTime\SaveTime.DaraAccess\bin\Debug\SaveTime.DataModel.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\SaveTime\SaveTime.DaraAccess\bin\Debug\SaveTime.DataModel.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\SaveTime\SaveTime.DaraAccess\bin\Debug\EntityFramework.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\SaveTime\SaveTime.DaraAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\SaveTime\SaveTime.DaraAccess\bin\Debug\ru\EntityFramework.resources.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\SaveTime\SaveTime.DaraAccess\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\SaveTime\SaveTime.DaraAccess\obj\Debug\SaveTime.DaraAccess.csprojResolveAssemblyReference.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\SaveTime\SaveTime.DaraAccess\obj\Debug\SaveTime.DaraAccess.Migrations.Migration01.resources
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\SaveTime\SaveTime.DaraAccess\obj\Debug\SaveTime.DaraAccess.csproj.GenerateResource.Cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\SaveTime\SaveTime.DaraAccess\obj\Debug\SaveTime.DaraAccess.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\SaveTime\SaveTime.DaraAccess\obj\Debug\SaveTime.DaraAccess.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\SaveTime\SaveTime.DaraAccess\obj\Debug\SaveTime.DaraAccess.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\SaveTime\SaveTime.DaraAccess\obj\Debug\SaveTime.DaraAccess.Migrations.Migr02.resources
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\SaveTime\SaveTime.DaraAccess\obj\Debug\SaveTime.DaraAccess.Migrations.Migr03.resources
